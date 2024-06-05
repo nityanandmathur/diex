@@ -48,17 +48,17 @@ DINO Explorer stores DINO embeddings for all datasets in a `.cache` directory to
     diex nuimages_1000
     ```
     A. **Embeddings:** Interactive 2D visualization of embeddings
-    ![Embeddings](https://github.com/nityanandmathur/diex/blob/main/assests/embed.png)
+    ![Embeddings](https://raw.githubusercontent.com/nityanandmathur/diex/main/assests/embed.png)
 
     B. **Embeddings to Image Mapping:** Select embeddings to view corresponding images
-    ![Mapping](https://github.com/nityanandmathur/diex/blob/main/assests/mapping.png)
+    ![Mapping](https://raw.githubusercontent.com/nityanandmathur/diex/main/assests/mapping.png)
 
 2. **NuImages × CityScapes** - A random set of 1000 and 600 images from the datasets.
     ```bash
     diex nuimages_1000 cityscapes_1000
     ```
     Clusters for different datasets, each with a different color.
-    ![Cluster](https://github.com/nityanandmathur/diex/blob/main/assests/multiple.png)
+    ![Cluster](https://raw.githubusercontent.com/nityanandmathur/diex/main/assests/multiple.png)
 
 ## 🙏 Credits
 
