@@ -6,7 +6,7 @@ DINO Explorer is a powerful tool designed to explore and visualize DINOv2 embedd
 
 > **Note:** Input folders must be separated by spaces.
 
-* To create a t-SNE visualization, use the following command:
+* To create a UMAP visualization, use the following command:
 
 ```bash
 diex <folder 1> .. <folder N>
