@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 readme = open('README.md').read()
 
 setup(
-    name='diex',
+    name='dinoexplorer',
     packages=find_packages(),
     version='0.1.0',
     description='DINO Explorer: A tool to explore DINO embeddings.',
