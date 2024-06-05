@@ -5,7 +5,7 @@ readme = open('README.md').read()
 setup(
     name='dinoexplorer',
     packages=find_packages(),
-    version='1.0.0',
+    version='1.0.1',
     description='DINO Explorer: A tool to explore DINO embeddings.',
     long_description=readme,
     long_description_content_type='text/markdown',
